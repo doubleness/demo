@@ -2,4 +2,5 @@ carrot
 onion
 celeriac
 chicken
-chilli
+black pepper
+salt
