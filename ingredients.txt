@@ -1,3 +1,5 @@
 carrot
 onion
 celeriac
+sugar
+duck
