@@ -4,3 +4,5 @@ celeriac
 chicken
 black pepper
 salt
+sugar
+duck
