@@ -4,3 +4,4 @@ celeriac
 chicken
 chilli
 black pepper
+salt
