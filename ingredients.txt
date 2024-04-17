@@ -2,3 +2,4 @@ carrot
 onion
 celeriac
 chicken
+chilli
